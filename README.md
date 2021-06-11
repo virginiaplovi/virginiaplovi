@@ -1,9 +1,25 @@
-### Hi there I'm Virginia👋
+<div align="center">
+ <h1>Hi there I'm Virginia👋</h1>
+<br>
+- 🌱 I’m currently learning Web Development at OpenClassrooms.com <br><br>
+- 📫 How to reach me: <br>
+  <br><br>
+  <a href="www.linkedin.com/in/virginiaplovi">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><a href="https://stackoverflow.com/users/16192648/virginiaplovi?tab=profile">
+  <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a><a href="mailto:virginiaplovi@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br><br><br><br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=virginiaplovi&show_icons=true&theme=flag-india" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virginiaplovi&layout=compact" />
+</a>
+</div>
 
-- 🌱 I’m currently learning Web Development at OpenClassrooms.com
-
-
-[![Virginiaplovi's GitHub stats](https://github-readme-stats.vercel.app/api?username=virginiaplovi&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **virginiaplovi/virginiaplovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
