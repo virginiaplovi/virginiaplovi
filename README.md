@@ -2,6 +2,7 @@
  <h1>Hi there I'm Virginia👋</h1>
 <br>
 - 🌱 I’m currently learning Web Development at OpenClassrooms.com <br><br>
+- 🔭 I’m currently working on Groupomania - Project 7(OpenClassrooms.com) <br><br>
 - 📫 How to reach me: <br>
   <br><br>
   <a href="www.linkedin.com/in/virginiaplovi">
