@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Groupomania - Project 7(OpenClassrooms.com) <br><br>
 - 📫 How to reach me: <br>
   <br><br>
-  <a href="www.linkedin.com/in/virginiaplovino">
+  <a href="https://linkedin.com/in/virginiaplovino">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a><a href="https://stackoverflow.com/users/16192648/virginiaplovi?tab=profile">
   <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
