@@ -3,7 +3,7 @@
  <img src="https://visitor-badge.laobi.icu/badge?page_id=virginiaplovi.virginiaplovi" alt=""><a href="https://github.com/virginiaplovi"><img src="https://img.shields.io/github/followers/virginiaplovi?label=Follow&amp;style=social" alt="Github"></a>
  <br><br>
 <br>
-- 🌱 I’m currently learning <b>PHP</b><br>
+- 🌱 I’m currently learning <b>Next.js</b><br>
 - 💬 Ask me about anything<br><br>
 - 📫 How to reach me: <br>
   <br>
