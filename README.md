@@ -1,11 +1,11 @@
 <div align="center">
  <h1>Hi there I'm Virginia👋</h1>
+ <img src="https://img.shields.io/badge/TALL-Laravel%20%7C%20Livewire%20%7C%20Alpine%20%7C%20Tailwind-38B2AC" alt="">
+ <img src="https://img.shields.io/badge/Focus-Backend%20First-blue" alt="">
+ <img src="https://img.shields.io/badge/Cares%20About-DX%20%26%20Maintainability-success" alt="">
+ <br>
  <img src="https://visitor-badge.laobi.icu/badge?page_id=virginiaplovi.virginiaplovi" alt=""><a href="https://github.com/virginiaplovi"><img src="https://img.shields.io/github/followers/virginiaplovi?label=Follow&amp;style=social" alt="Github"></a>
- ![TALL](https://img.shields.io/badge/TALL-Laravel%20%7C%20Livewire%20%7C%20Alpine%20%7C%20Tailwind-38B2AC)
-![Backend-first](https://img.shields.io/badge/Focus-Backend%20First-blue)
-![DX](https://img.shields.io/badge/Cares%20About-DX%20%26%20Maintainability-success)
- <br><br>
-<br>
+<br><br>
 <!-- - 🌱 I’m currently learning <b>Next.js</b><br> -->
 - 💬 Ask me about anything<br><br>
 - 📫 How to reach me: <br>
